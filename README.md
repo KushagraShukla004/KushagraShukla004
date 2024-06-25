@@ -18,9 +18,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=KushagraShukla004&limit=5&theme=synthwave&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=KushagraShukla004&icon=2&color=6)](https://visitcount.itsvg.in)
 
