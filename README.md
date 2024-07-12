@@ -1,6 +1,8 @@
 # Hi 👋, I'm Kushagra Shukla
 
-🔭 I’m currently working on: Cinemix: A movie ticket booking system using all the latest technologies like NEXT.js , Prism, tRPC , TailwindCSS and much more<br>👯 I’m looking to collaborate on open-source projects for any ReactJs related work<br>🌱 I’m currently learning JavaScript and it's frameworks for Full-Stack Development and also<br>Cloud Computing such as AWS , Docker and Kubernetes.<br>I have keen interest in Cyber Security and try to keep with all the advancements happening<br>in the field.<br>
+🔭 I'm a passionate student with a curious mindset, always striving to learn more and contribute to exciting projects.<br>
+👯 I’m actively seeking collaboration opportunities on open-source projects, especially those involving React.js.<br>
+🌱 Currently, I'm diving deep into JavaScript and its frameworks for Full-Stack Development. Additionally, I'm exploring Cloud Computing and Docker to broaden my skill set.<br>
 
 ## 🌐 Socials:
 
