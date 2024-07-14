@@ -1,6 +1,6 @@
 # Hi 👋, I'm Kushagra Shukla
 
-🔭 I'm a passionate student with a curious mindset, always striving to learn more and contribute to exciting projects.<br><br>
+🔭 I'm a passionate student with a curious mindset, always striving to learn more and create exciting projects.<br><br>
 👯 I’m actively seeking collaboration opportunities on open-source projects, especially those involving React.js.<br><br>
 🌱 Currently, I'm diving deep into JavaScript and its frameworks for Full-Stack Development. Additionally, I'm exploring Cloud Computing and Docker to broaden my skill set.<br><br>
 
