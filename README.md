@@ -1,4 +1,4 @@
-# Hi 👋, I'm Kushagra Shukla
+![Banner](https://github.com/user-attachments/assets/59c1fa7d-5ebe-42d6-955f-0e78b71d614a)
 
 🔭 I'm a passionate student with a curious mindset, always striving to learn more and create exciting projects.<br><br>
 👯 I’m actively seeking collaboration opportunities on open-source projects, especially those involving React.js.<br><br>
